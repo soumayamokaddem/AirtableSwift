@@ -1,0 +1,14 @@
+body {
+    margin: 5px;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4em;
+    color: #333;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 24px;
+    font-weight: 200;
+}
